@@ -8,19 +8,9 @@
     "moduleResolution": "node",
     "target": "es5",
     "noUnusedLocals": true,
-    "typeRoots": [
-      "node_modules/@types",
-      "typings/globals"
-    ],
     "lib": [
       "es5",
-      "es6",
-      "es2015.core",
-      "es2015.collection",
-      "es2015.promise",
-      "es2015.reflect",
-      "es2015.symbol",
-      "es2015.symbol.wellknown"
+      "es6"
     ],
     "noEmit": true,
     "allowSyntheticDefaultImports": true,

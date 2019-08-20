@@ -19,7 +19,5 @@
     "webpack": "^4.39.2",
     "webpack-cli": "^3.3.7"
   },
-  "dependencies": {
-    "typings": "^2.1.1"
-  }
+  "dependencies": {}
 }

@@ -1,7 +1,0 @@
-{
-  "name": "phoenix",
-  "dependencies": {},
-  "globalDependencies": {
-    "phoenix-typings": "github:mafredri/phoenix-typings"
-  }
-}

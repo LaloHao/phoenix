@@ -843,6 +843,12 @@ interface Phoenix {
   notify(message: string): void;
 }
 
+interface Console {
+  log: Phoenix['log'];
+}
+
+declare var console: Console;
+
 /**
  * Use the Phoenix-object for API-level tasks.
  */
