@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "main": "index.d.ts",
+    "version": "1.0.0",
+    "name": "console"
+  }
+}
