@@ -212,6 +212,11 @@ interface Space extends Phoenix.Identifiable, Phoenix.Iterable<Space> {
   isFullScreen(): boolean;
 
   /**
+   * Returns the screen to which the space belongs to.
+   */
+  screen(): Screen;
+
+  /**
    * Returns all screens to which the space belongs to.
    */
   screens(): Screen[];

@@ -14,10 +14,14 @@
   "license": "WTFPL",
   "devDependencies": {
     "awesome-typescript-loader": "^5.2.1",
+    "tslint": "^5.18.0",
     "tslint-config-airbnb": "^5.11.1",
     "typescript": "^3.5.3",
     "webpack": "^4.39.2",
     "webpack-cli": "^3.3.7"
   },
-  "dependencies": {}
+  "dependencies": {
+    "mobx": "^4.13.0",
+    "serializr": "^1.5.1"
+  }
 }
